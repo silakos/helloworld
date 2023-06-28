@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Random HTML Page</title>
+  <style>
+    body {
+      font-family: Verdana, sans-serif;
+      background-color: #eaeaea;
+      text-align: center;
+    }
+
+    h1 {
+      color: #333;
+      margin-top: 50px;
+    }
+
+    p {
+      color: #666;
+    }
+
+    .button {
+      padding: 10px 20px;
+      background-color: #4CAF50;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Hello, World!</h1>
+  <p>This is a random HTML page generated just for you.</p>
+  <button class="button">Click Me</button>
+  <p>Feel free to explore and experiment with HTML!</p>
+</body>
+</html>
